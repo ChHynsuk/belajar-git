@@ -1,5 +1,5 @@
-<h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There!  I Am Dedes <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> 
-</h2>
+<h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There!  I Am Dedes <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> </h2>
+
 
 Nama saya Destyna Auliany, saya kuliah di Universitas Negeri Makassar, Fakultas Teknik, Jurusan Pendidikan Teknik Elektronika. Saya tinggal di Perumahan Pesona Prima Griya. Saya hobi tidur, saya bergabung di organisasi Coconut Computer Club pada tahun 2024.
 
